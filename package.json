@@ -1,0 +1,10 @@
+{
+  "name": "online-log-tail",
+  "version": "0.0.1",
+  "description": "online-log-tail",
+  "dependencies": {
+    "express": "4.10.2",
+    "socket.io": "1.2.0",
+    "tail": "^0.4.0"
+  }
+}
